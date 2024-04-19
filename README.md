@@ -15,6 +15,8 @@ Links to Mods
 2. [Zeropanels 2020 Edition](https://www.printables.com/model/803352-zeropanels-2020-edition)  note: I used screws instead of magnets
 3. [Z belt cable cover](https://www.printables.com/model/832359-z-belt-cable-cover-mk2)
 4. [Collection of other people's mods](https://www.printables.com/@OneHotTake_1106894/collections/1274945)
+5. [Panzer Chain](https://mods.vorondesign.com/details/AVX0p7l2NUIQANECCD9Og)
+6. [Rama Idlers](https://github.com/Ramalama2/Voron-2-Mods)
 
 ## Vids  
 
@@ -22,6 +24,6 @@ First Print https://www.youtube.com/shorts/qwX8Vk2GfZ4
 
 
 ## Pics
-
+Assembled:  ![Glamour Shot](Images/IMG_1494.jpeg)
 
 
