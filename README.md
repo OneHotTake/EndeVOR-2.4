@@ -20,7 +20,13 @@ Links to Mods
 
 ## Vids  
 
-First Print https://www.youtube.com/shorts/qwX8Vk2GfZ4 
+First Print https://www.youtube.com/shorts/qwX8Vk2GfZ4   
+
+Reusing Ender Parts to Build a Voron Series:  
+  - Part #0 What Parts can be Re-Used and Is It Worth It? https://youtu.be/Przp3QahNWU   
+  - Part #1  The Ender Bed and Mounting Hardware https://youtu.be/tHU2S4fuUb8  
+  - Part #2 Salvaging Bearings to Build Z-Drives https://youtu.be/p9NlcQ7H3k0  
+
 
 
 ## Pics
